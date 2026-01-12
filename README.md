@@ -1,4 +1,4 @@
-Klasy: to podstawowe elementy programowania obiektowego – są szablonami opisującymi obiekty, ich pola (dane) i metody (zachowania). Na ich podstawie tworzy się obiekty, czyli konkretne instancje klasy działające w programie.
+Klasy: to podstawowe elementy programowania obiektowego - są szablonami opisującymi obiekty, ich pola (dane) i metody (zachowania). Na ich podstawie tworzy się obiekty, czyli konkretne instancje klasy działające w programie.
 
 Dziedziczenie: pozwala jednej klasie (podklasie) przejmować cechy innej klasy (nadklasy) za pomocą słowa kluczowego extends. Dzięki temu można ponownie wykorzystywać kod i rozszerzać lub modyfikować zachowanie klas bazowych.
 
